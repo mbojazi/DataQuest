@@ -1,2 +1,2 @@
 # DataQuest
-DataQuest projects
+Dataquest projects
